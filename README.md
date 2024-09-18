@@ -1,2 +1,2 @@
 # Mock-Landing-Page
-The Odin Project - Project: Landing Page
+The Odin Project - Landing Page Project.
