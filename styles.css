@@ -47,7 +47,12 @@ gap: 60px;
 }
 
 .sign-up-button {
-
-
+font-size: 15px;
+height: 35px;
+width: 110px;
+background-color: #3882F6;
+color: white;
+border-radius: 5px;
+border: 50px;
 }
 
