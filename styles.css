@@ -1,0 +1,17 @@
+
+.section-one {
+  background-color:#1F2937;
+  color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+ul {
+ display: flex;
+ list-style-type: none;
+ gap: 20px;
+}
