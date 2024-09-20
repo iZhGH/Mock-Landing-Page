@@ -4,9 +4,19 @@
 
 .section-one {
   background-color:#1F2937;
-  color: white;
   display: flex;
   flex-direction: column;
+
+}
+
+.one-maintext {
+  color: white;
+  font-size: 48px;
+
+}
+.one-subtext {
+  font-size: 18px;
+  color: #E5E7EB;
 
 }
 
@@ -20,8 +30,13 @@ ul {
  display: flex;
  list-style-type: none;
  gap: 20px;
+ color: lightgray; 
  
+ 
+}
 
+li {
+  font-size: 18px;
 }
 
 .subsection-one {
@@ -29,12 +44,9 @@ display: flex;
 align-items: center;
 justify-content: center;
 gap: 60px;
-
-
-
 }
 
-.section-right {
+.sign-up-button {
 
 
 }
