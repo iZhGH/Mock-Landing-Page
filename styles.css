@@ -36,6 +36,10 @@ body {
 
 }
 
+.header-logo, p {
+  color: white;
+}
+
 ul {
  display: flex;
  list-style-type: none;
