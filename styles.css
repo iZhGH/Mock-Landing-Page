@@ -13,7 +13,7 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  gap: 125px;
+  gap: 50px;
   
 
 }
@@ -31,6 +31,8 @@ body {
 
 .header {
   display: flex;
+  gap: 415px;
+  
 
 }
 
@@ -43,14 +45,15 @@ ul {
 }
 
 li {
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .subsection-one {
 display: flex;
 align-items: center;
-justify-content: space-evenly;
-gap: 0px;
+gap: 10px;
+margin-left: 300px;
+margin-right: 300px;
 }
 
 .subsection-left {
