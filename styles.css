@@ -2,10 +2,19 @@
   font-family:Trebuchet MS,'Times New Roman', Times, serif
 }
 
+
+body {
+  height: 100vh;
+  margin: 0;
+}
+
 .section-one {
   background-color:#1F2937;
   display: flex;
+  align-items: center;
   flex-direction: column;
+  gap: 125px;
+  
 
 }
 
@@ -22,7 +31,6 @@
 
 .header {
   display: flex;
- justify-content: space-evenly;
 
 }
 
@@ -31,7 +39,6 @@ ul {
  list-style-type: none;
  gap: 20px;
  color: lightgray; 
- 
  
 }
 
@@ -42,17 +49,19 @@ li {
 .subsection-one {
 display: flex;
 align-items: center;
-justify-content: center;
-gap: 100px;
+justify-content: space-evenly;
+gap: 0px;
 }
 
 .subsection-left {
-  display: flex;
-  flex-direction: column;
+  
+
+
 
 }
 
-.subsection-right img {
+.subsection-right {
+
   
 }
 
@@ -67,4 +76,3 @@ color: white;
 border-radius: 5px;
 border: 50px;
 }
-
