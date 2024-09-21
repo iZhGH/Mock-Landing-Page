@@ -33,13 +33,14 @@ body {
 
 .header {
   display: flex;
-  gap: 415px;
+  gap: 410px;
   
 
 }
 
 .header-logo, p {
   color: white;
+  
 }
 
 ul {
