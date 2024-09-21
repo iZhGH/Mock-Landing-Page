@@ -21,12 +21,14 @@ body {
 .one-maintext {
   color: white;
   font-size: 48px;
+  font-weight: 900;
+  margin-bottom: -5px;
 
 }
 .one-subtext {
   font-size: 18px;
-  color: #E5E7EB;
-
+  color: lightgray;
+  
 }
 
 .header {
@@ -59,6 +61,7 @@ gap: 10px;
 margin-left: 300px;
 margin-right: 300px;
 }
+
 
 
 
