@@ -1,6 +1,6 @@
 # Landing Page
 Project from 'The Odin Project' foundations course\
-View CodePen here: https://codepen.io/iZhGH/pen/KKjOJON
+View CodePen here: (WIP)
 # Languages
 - HTML
 - CSS (+ flexbox)
