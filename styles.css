@@ -68,7 +68,6 @@ margin-right: 300px;
 
 
 
-
 .sign-up-button a {
   color: white;
  text-decoration: none;
@@ -84,6 +83,7 @@ background-color: #3882F6;
 border-radius: 5px;
 border: 50px;
 transition-duration: 0.15s;
+margin-bottom: 25px;
 }
 
 button:hover {
