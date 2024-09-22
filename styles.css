@@ -58,7 +58,12 @@ a {
   color: darkgray;
   text-decoration: none;
   font-weight: 750;
+  transition-duration: 0.2s;
   
+}
+
+a:hover {
+  color: white;
 }
 
 .subsection-one {
