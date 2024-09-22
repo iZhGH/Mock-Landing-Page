@@ -1,6 +1,6 @@
 # Landing Page
 Project from 'The Odin Project' foundations course\
-View CodePen here: (WIP)
+View this site here: https://izhgh.github.io/Mock-Landing-Page/
 # Languages
 - HTML
 - CSS (+ flexbox)
