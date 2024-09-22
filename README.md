@@ -1,8 +1,7 @@
-# Mock-Landing-Page
-The Odin Project - Landing Page Project.
-Used:
-HTML
-CSS -- Flexbox
- 
-Images used: 
+# Landing Page
+Project from 'The Odin Project' foundations course
+# Languages
+- HTML
+- CSS (+ flexbox)
+## Credits
 American flag on field - https://unsplash.com/@caleb_woods
