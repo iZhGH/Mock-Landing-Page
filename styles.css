@@ -97,3 +97,12 @@ margin-bottom: 25px;
 button:hover {
   background-color: #70a1f1;
 }
+
+.section-two-title {
+  text-align: center;
+}
+
+.section-two-container {
+  display: flex;
+  just
+}
