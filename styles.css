@@ -122,3 +122,31 @@ button:hover {
   border: 4.5px solid #3882F6;
   border-radius: 15px;
 }
+
+
+.section-three {
+  background-color: #E5E7EB;
+  padding: 65px;
+}
+
+.section-three-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section-three-quote {
+  font-size: 36px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #1F2937;
+  font-style: italic;
+  max-width: 650px;
+
+}
+
+.section-three-author {
+  margin-left: 335px;
+  font-size: 20px;
+  font-weight: 900
+
+}
