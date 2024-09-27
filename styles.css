@@ -99,7 +99,7 @@ button:hover {
 }
 
 .section-two {
-  margin: 40px;
+
 }
 
 .section-two-title {
@@ -113,9 +113,13 @@ button:hover {
   display: flex;
   justify-content: center;
   gap: 50px;
-
 }
 
 .section-two-info {
-  max-width: 150px;
+  max-width: 170px;
+  color: #5d6061;
+}
+.section-two-info img {
+  border: 4.5px solid #3882F6;
+  border-radius: 15px;
 }
