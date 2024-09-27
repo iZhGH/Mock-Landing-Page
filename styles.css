@@ -99,7 +99,9 @@ button:hover {
   background-color: #70a1f1;
 }
 
-
+.section-two {
+  padding-bottom: 80px;
+}
 
 .section-two-title {
   text-align: center;
