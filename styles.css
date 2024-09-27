@@ -72,6 +72,7 @@ align-items: center;
 gap: 10px;
 margin-left: 300px;
 margin-right: 300px;
+margin-bottom: 100px;
 }
 
 
@@ -98,9 +99,7 @@ button:hover {
   background-color: #70a1f1;
 }
 
-.section-two {
 
-}
 
 .section-two-title {
   text-align: center;
