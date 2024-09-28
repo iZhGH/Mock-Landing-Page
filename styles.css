@@ -152,3 +152,50 @@ button:hover {
   font-weight: 900
 
 }
+
+.section-four {
+  padding-bottom: 80px;
+}
+.sign-up-container {
+  background-color: #3882F6;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 10px;
+  margin-top: 80px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-radius: 10px;
+
+}
+
+.call-to-action {
+  font-weight: 1000;
+  font-size: 20px;
+}
+
+.sign-up-four {
+  font-weight: 0;
+  margin-top: -15px;
+}
+
+.sign-up-button-two {
+  width: 120px;
+  height: 30px;
+  border-color: white;
+  border-radius: 5px;
+  background-color: transparent;
+  border-width: 2px;
+  text-decoration: none;
+  border-style: solid;
+  
+
+}
+
+.sign-up-button-two a {
+  color: white;
+  
+}
+
